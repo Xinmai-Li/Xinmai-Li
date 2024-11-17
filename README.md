@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- 🌱 I’m currently studying AI Marketing at The Chinese University of Hong Kong
 <!--
 **Xinmai-Li/Xinmai-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
